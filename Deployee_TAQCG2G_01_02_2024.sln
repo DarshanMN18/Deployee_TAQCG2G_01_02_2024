@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Deployee_TAQCG2G_01_02_2024", "F:\Darshan\All Backup 3\Development Solution_4\Deployee_TAQCG2G_01_02_2024\", "{E4D8EDBF-0A89-4683-8B66-F1CBE49B6BA1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50358"
+		Debug.AspNetCompiler.PhysicalPath = "F:\Darshan\All Backup 3\Development Solution_4\Deployee_TAQCG2G_01_02_2024\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50358\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50358"
+		Release.AspNetCompiler.PhysicalPath = "F:\Darshan\All Backup 3\Development Solution_4\Deployee_TAQCG2G_01_02_2024\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50358\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50358"
+		SlnRelativePath = "F:\Darshan\All Backup 3\Development Solution_4\Deployee_TAQCG2G_01_02_2024\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D8EDBF-0A89-4683-8B66-F1CBE49B6BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D8EDBF-0A89-4683-8B66-F1CBE49B6BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DFB04E-BC3F-4D79-B24D-4877912BBA41}
+	EndGlobalSection
+EndGlobal
